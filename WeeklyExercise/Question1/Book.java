@@ -1,5 +1,4 @@
 // Book.java
-
 public abstract class Book
 {
     String title = new String();
